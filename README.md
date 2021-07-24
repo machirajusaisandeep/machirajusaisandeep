@@ -2,6 +2,15 @@
 
 I'm passionate about  ***Front-end*** , ***Design***, ***Back-end***, and ***Applications Development***.
 
+### Tech Autodidact, Photographer & Coder
+
+- 🔭 I’m currently working on  Javascript, Angular, React
+- 🌱 I’m currently learning various tech that interests me.
+- 💬 Ask me about Javascript, Node Js, React Js, Angular 2 & above 
+- 😄 Hobbies: Photography, Reading Books, Developing awesome stuff 
+- ⚡ Fun fact: Chess Champ
+
+
 ### Languages, Frameworks and Tools I use and I have worked with:
 <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
 		<img src='https://img.shields.io/badge/code-html-orange?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=orange' alt='HTML'>

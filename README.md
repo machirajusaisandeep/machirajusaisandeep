@@ -8,7 +8,7 @@ I'm passionate about  ***Front-end*** , ***Design***, ***Back-end***, and ***App
 - 🌱 I’m currently learning various tech that interests me.
 - 💬 Ask me about Javascript, Node Js, React Js, Angular 2 & above 
 - 😄 Hobbies: Photography, Reading Books, Developing awesome stuff 
-- ⚡ Fun fact: Chess Champ
+- ⚡ Fun fact: Finance Enthusiast
 
 
 ### Languages, Frameworks and Tools I use and I have worked with:

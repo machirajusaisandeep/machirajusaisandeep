@@ -39,3 +39,12 @@ I'm passionate about  ***Front-end*** , ***Design***, ***Back-end***, and ***App
 		<img src='https://img.shields.io/badge/tool-adobe xd-450135?logoWidth=30&labelColor=black&style=for-the-badge&logo=adobexd' alt='Adobe XD'>
 	</a>
 	&emsp;
+	
+	
+	<details>
+  <summary>GitHub Statistics</summary>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=machirajusaisandeep&theme=tokyonight" alt="Stats"/>
+</details>
+
+
+![Visitor Count](https://profile-counter.glitch.me/machirajusaisandeep/count.svg)

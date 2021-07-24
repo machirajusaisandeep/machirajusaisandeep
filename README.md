@@ -40,8 +40,9 @@ I'm passionate about  ***Front-end*** , ***Design***, ***Back-end***, and ***App
 	</a>
 	&emsp;
 	
-	
-	<details>
+<br>
+<br>	
+<details>
   <summary>GitHub Statistics</summary>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=machirajusaisandeep&theme=tokyonight" alt="Stats"/>
 </details>

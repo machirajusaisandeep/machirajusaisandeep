@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Sandeep Machiraju](https://resume.sandeepmachiraju.in/)!
 
-I'm passionate about  ***Front-end*** , ***Design***, ***Back-end***, and ***Applications Development***.
+I'm passionate about  ***Front-end*** , ***Design*** and ***Applications Development***.
 
 ### Tech Autodidact, Photographer & Coder
 

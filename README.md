@@ -1,60 +1,56 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Sandeep Machiraju](https://resume.sandeepmachiraju.in/)!
+### Namaste 🙏, I'm [Sandeep Machiraju](https://www.sandeepmachiraju.com/resume.pdf)!
 
-I'm passionate about  ***Front-end*** , ***Design*** and ***Applications Development***.
+<div align='center'>
+	<img src="sandeepMachiraju.png" alt="Sandeep Machiraju" width="400px">
+</div>
+
+A Frontend Developer who helps startups scale from 0-1 and a teacher by passion.
+
+<div align='center'>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+	       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
+		     <img src="https://img.shields.io/badge/svelte-%23323330.svg?style=for-the-badge&logo=svelte&logoColor=orange"/> 
+		       <img src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red"/> 
+      </div>
 
 ### Tech Autodidact, Photographer & Coder
 
-- 🔭 I’m currently working on  Javascript, Angular, React
+- 🔭 I’m currently working on Javascript,React & Next.js
 - 🌱 I’m currently learning various tech that interests me.
-- 💬 Ask me about Javascript, Node Js, React Js, Angular 2 & above 
-- 😄 Hobbies: Photography, Reading Books, Developing awesome stuff 
+- 💬 Ask me about Javascript, Node Js, React Js, Angular 2 & above
+- 😄 Hobbies: Travelling, Photography, Bike Ride, Design & Developing awesome stuff
 - ⚡ Fun fact: Finance Enthusiast
 
+#### Connect with me :
 
-### Languages, Frameworks and Tools I use and I have worked with:
-<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
-		<img src='https://img.shields.io/badge/code-html-orange?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=orange' alt='HTML'>
-	</a>
-	&emsp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-		<img src='https://img.shields.io/badge/code-css-green?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=green' alt='CSS'>
-	</a>
-	&ensp;
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
-		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
-	</a>
-	&emsp;
-<br>
-<br>
-<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/code-angular-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
-	</a>
-	&emsp;
-<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
-	</a>
-	&emsp;
-<a href='https://nodejs.org/en/'>
-		<img src='https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
-	</a>
-<br>
+<div>
+	<a href="https://www.linkedin.com/in/machirajusaisandeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep machiraju" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@advancedWebDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sandeep machiraju : advancedWebDev" height="30" width="40" /></a>
+</div>
+
 <br>
 
-  <a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/tool-figma-purple?logoWidth=30&labelColor=black&style=for-the-badge&logo=figma&logoColor=purple' alt='Figma'>
-	</a>
-	&emsp;
-<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/tool-adobe xd-450135?logoWidth=30&labelColor=black&style=for-the-badge&logo=adobexd' alt='Adobe XD'>
-	</a>
-	&emsp;
-	
-<br>
+#### Languages
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,angular,ts,gatsbyjs,tailwind,materialui" />
+  </a>
+</p>
+
+#### Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,postman" />
+  </a>
+</p>
+
 <br>	
 <details>
   <summary>GitHub Statistics</summary>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=machirajusaisandeep&theme=tokyonight" alt="Stats"/>
 </details>
-
 
 ![Visitor Count](https://profile-counter.glitch.me/machirajusaisandeep/count.svg)

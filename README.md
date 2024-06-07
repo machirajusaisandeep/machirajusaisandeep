@@ -31,6 +31,12 @@ A Frontend Developer who helps startups scale from 0-1 and a teacher by passion.
 
 <br>
 
+<div>
+<a href="https://bio.sandeepmachiraju.com/" target="blank">See my Latest Works</a>
+</div>
+
+<br>
+
 #### Languages
 
 <p align="left">

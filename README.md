@@ -10,7 +10,7 @@ A Frontend Developer who helps startups scale from 0-1 and a teacher by passion.
 		       <img src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red"/> 
       </div>
 
-### Tech Autodidact, Photographer & Coder
+## Tech Autodidact, Photographer & Coder
 
 - 🔭 I’m currently working on Javascript,React & Next.js
 - 🌱 I’m currently learning various tech that interests me.

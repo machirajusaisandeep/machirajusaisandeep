@@ -18,7 +18,7 @@ A Frontend Developer who helps startups scale from 0-1 and a teacher by passion.
 - 😄 Hobbies: Travelling, Photography, Bike Ride, Design & Developing awesome stuff
 - ⚡ Fun fact: Finance Enthusiast
 
-#### Connect with me :
+## Connect with Me 📬
 
 <div>
 	<a href="https://www.linkedin.com/in/machirajusaisandeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep machiraju" height="30" width="40" /></a>
@@ -32,6 +32,8 @@ A Frontend Developer who helps startups scale from 0-1 and a teacher by passion.
 </div>
 
 <br>
+
+## Technical Skills 🛠️
 
 #### Languages
 

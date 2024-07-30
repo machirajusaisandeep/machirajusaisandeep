@@ -1,9 +1,5 @@
 ### Namaste 🙏, I'm [Sandeep Machiraju](https://www.sandeepmachiraju.com/resume.pdf)!
 
-<div align='center'>
-	<img src="sandeepMachiraju.png" alt="Sandeep Machiraju" width="400px">
-</div>
-
 A Frontend Developer who helps startups scale from 0-1 and a teacher by passion.
 
 <div align='center'>

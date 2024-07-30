@@ -30,7 +30,7 @@ I'm a passionate Frontend Developer with 5 years of experience, specializing in 
 - **LinkedIn**: [linkedin.com/in/machirajusaisandeep](https://www.linkedin.com/in/machirajusaisandeep/)
 
 
-## 🔗 Portfolio:
+## Portfolio 🔗 
 - **Resume Portfolio**: [resume.sandeepmachiraju.com](https://resume.sandeepmachiraju.com/)
 - **Photography Portfolio**: [photography.sandeepmachiraju.com](https://photography.sandeepmachiraju.com/)
 

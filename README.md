@@ -39,4 +39,4 @@ I'm always looking to connect with like-minded professionals and explore new opp
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machirajusaisandeep&layout=compact&theme=radical)
+

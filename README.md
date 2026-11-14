@@ -1,9 +1,12 @@
-### Namaste 🙏, I'm [Sandeep Machiraju](https://www.sandeepmachiraju.com/resume.pdf)!
+## Sandeep Machiraju
 
 ## About Me
-I'm a passionate Frontend Developer with 5 years of experience, specializing in **React**, **TypeScript**, **Redux**, **Next.js**, and **Tailwind CSS**. I'm currently expanding my skill set to include **full-stack development** with **Node.js** and **Express.js**.
+Senior frontend engineer moving into AI engineering. 6+ years building production apps with React, Next.js and TypeScript; now building LLM apps, agents and evals, and the interfaces on top.
 
-<br>
+- Newsletter: [sandepmachiraju.substack.com](https://sandepmachiraju.substack.com)
+- YouTube: [youtube.com/@sandeepmachiraju](https://www.youtube.com/@sandeepmachiraju)
+- Website: [sandeepmachiraju.com](https://sandeepmachiraju.com)
+- LinkedIn: [linkedin.com/in/sandepmachiraju](https://www.linkedin.com/in/sandepmachiraju/)
 
 ## Technical Skills 🛠️
 
